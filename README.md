@@ -7,14 +7,17 @@
 <a href="https://www.linkedin.com/in/himanshu-gwalani/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://www.codechef.com/users/himanshug99">
-  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
 <a target="_blank" href="https://www.codeforces.com/profile/hgwalani81">
   <img align="left" alt="Codeforces" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codeforces.svg" />
 </a>
+<a target="_blank" href="https://leetcode.com/u/hgwalani81/">
+  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 <a target="_blank" href="https://www.hackerearth.com/@himanshu932">
   <img align="left" alt="Hackerearth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerearth.svg" />
+</a>
+<a target="_blank" href="https://www.codechef.com/users/himanshug99">
+  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
 <br>
