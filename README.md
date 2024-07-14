@@ -20,7 +20,7 @@
 <br>
 <br>
 
-Hi, I'm [Himanshu Gwalani](https://himanshu-g81.github.io/), Final year undergraduate student at Malaviya National Institute of Technology, Jaipur. <br> I am an upcomming AMTS at Salesforce.
+Hi, I'm [Himanshu Gwalani](https://himanshu-g81.github.io/), Software Engineer at Salesforce.
 
 **Languages and Tools:**  
 
