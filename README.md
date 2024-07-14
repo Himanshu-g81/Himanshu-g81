@@ -20,7 +20,8 @@
 <br>
 <br>
 
-Hi, I'm [Himanshu Gwalani](https://himanshu-g81.github.io/), Software Engineer at Salesforce.
+Hi, I'm Himanshu Gwalani, Software Engineer at Salesforce.
+# [Himanshu Gwalani](https://himanshu-g81.github.io/), 
 
 **Languages and Tools:**  
 
