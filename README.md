@@ -21,7 +21,7 @@
 <br>
 
 Hi, I'm Himanshu Gwalani, Software Engineer at Salesforce.
-# [Himanshu Gwalani](https://himanshu-g81.github.io/), 
+<!-- [Himanshu Gwalani](https://himanshu-g81.github.io/) -->
 
 **Languages and Tools:**  
 
